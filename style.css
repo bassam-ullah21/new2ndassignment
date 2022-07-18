@@ -1,0 +1,70 @@
+body {
+  margin: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow";
+
+  background-color: lightcyan;
+}
+
+#load-btn {
+  font-size: 40px;
+}
+
+table {
+  width: 100%;
+  text-align: center;
+}
+
+table,
+td,
+th {
+  border: 1px solid black;
+}
+th {
+  padding: 10px;
+}
+button {
+  background-color: transparent;
+  padding: 5px;
+}
+.btn-container {
+  text-align: center;
+  margin: 20px;
+}
+
+#load-btn {
+  font-size: 30px;
+}
+
+.save-btn .cancel-btn .edit-btn,
+.delete-btn {
+  margin: 5px;
+  padding: 5px;
+  width: 60px;
+}
+table {
+  width: 100%;
+  text-align: center;
+}
+table,
+td,
+th {
+  border: 1px solid black;
+}
+th {
+  padding: 10px;
+}
+button {
+  background-color: transparent;
+  padding: 5px;
+}
+.toCenter {
+  text-align: center;
+  margin: 20px;
+}
+
+.save-btn .cancel-btn .edit-btn,
+.delete-btn {
+  margin: 5px;
+  padding: 5px;
+  width: 60px;
+}

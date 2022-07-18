@@ -1,0 +1,101 @@
+[
+  {
+    "First Name": "Virat",
+    "Middle Name": "Singh",
+    "Last Name": "Kohli",
+    "Email": "virat.kohli18@gmail.com",
+    "Phone": "9876483254",
+    "Role": "Opener",
+    "Address": "Delhi"
+  },
+
+  {
+    "First Name": "Mahendra",
+    "Middle Name": "Singh",
+    "Last Name": "Dhoni",
+    "Email": "dhoni.singh07@gmail.com",
+    "Phone": "7676483254",
+    "Role": "Finisher",
+    "Address": "Ranchi"
+  },
+
+  {
+    "First Name": "Rishabh",
+    "Middle Name": "",
+    "Last Name": "Pant",
+    "Email": "rishabh.pant23@gmail.com",
+    "Phone": "9870983254",
+    "Role": "Keeper",
+    "Address": "Delhi"
+  },
+
+  {
+    "First Name": "Hardik",
+    "Middle Name": "",
+    "Last Name": "Pandya",
+    "Email": "hardik.pandya32@gmail.com",
+    "Phone": "6376483254",
+    "Role": "All Rounder",
+    "Address": "Pune"
+  },
+
+  {
+    "First Name": "Rohit",
+    "Middle Name": "Singh",
+    "Last Name": "Sharma",
+    "Email": "rohit.sharma45@gmail.com",
+    "Phone": "9996483254",
+    "Role": "Opener",
+    "Address": "Mumbai"
+  },
+
+  {
+    "First Name": "Jasprit",
+    "Middle Name": "",
+    "Last Name": "Bumrah",
+    "Email": "jasprit.bumrah01@gmail.com",
+    "Phone": "8836483254",
+    "Role": "Bowler",
+    "Address": "Kolakata"
+  },
+
+  {
+    "First Name": "Ravindra",
+    "Middle Name": "",
+    "Last Name": "Jadeja",
+    "Email": "ravindra.jadeja99@gmail.com",
+    "Phone": "7576483254",
+    "Role": "All Rounder",
+    "Address": "Delhi"
+  },
+
+  {
+    "First Name": "Mohammad",
+    "Middle Name": "",
+    "Last Name": "Shami",
+    "Email": "mohammad.shami87@gmail.com",
+    "Phone": "9876483254",
+    "Role": "Bowler",
+    "Address": "Punjab"
+  },
+
+  {
+    "First Name": "Kuldeep",
+    "Middle Name": "Kumar",
+    "Last Name": "Yadav",
+    "Email": "kuldeep.yadav@gmail.com",
+    "Phone": "6806483254",
+    "Role": "Spinner",
+    "Address": "Delhi"
+  },
+
+  {
+    "First Name": "Yuvraj",
+    "Middle Name": "",
+    "Last Name": "Singh",
+    "Email": "yuvraj.singh@gmail.com",
+    "Phone": "7876483254",
+    "Role": "Finisher",
+    "Address": "Punjab"
+  }
+]
